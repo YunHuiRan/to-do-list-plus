@@ -7,7 +7,7 @@
       <div class="flex-box w-[90%] h-[10%] bg-amber-700 text-3xl">welcome!</div>
 
       <!-- log in or register form -->
-      <div class="flex-box w-[90%] h-[40%] bg-emerald-500">
+      <div class="flex-box w-[90%] h-[50%] bg-emerald-500">
         <component :is="forms[currentForm]" />
       </div>
 

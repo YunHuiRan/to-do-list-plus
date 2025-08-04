@@ -1,7 +1,11 @@
 @import "tailwindcss";
 
-.flex-box{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body{
+    margin: 1rem;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
